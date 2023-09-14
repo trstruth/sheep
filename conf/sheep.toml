@@ -1,0 +1,6 @@
+[storage]
+storage_type = "redis"
+connection_string = "redis://localhost:6379"
+
+[server]
+port = 8001
